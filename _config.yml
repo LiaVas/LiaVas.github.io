@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José Carlos Hernández Azucena, Ph.D."
+title                    : "Lidia Vásquez"
 title_separator          : "-"
-name                     : &name "José Carlos Hernández Azucena, Ph.D."
-description              : &description "Postdoctoral Fellow \ Department of Industrial Engineering \ University of Arkansas"
-url                      : https://kvothesfs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &ame "Lidia Vásquez"
+description              : &description "Doctoral Student \ John Jay College of Criminal Justice \ City University of New York"
+url                      : https://LiaVas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kvothesfs/kvothesfs.github.io"
+repository               : "LiaVas/LiaVas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Carlos Hernández Azucena, Ph.D."
-  avatar           : "pp.jpg"
-  bio              : "Postdoctoral Fellow<br />Department of Industrial Engineering<br />University of Arkansas"
-  location         : "Fayetteville, AR"
-  employer         : #"The University of Arkansas"
+  name             : "Lidia Vásquez"
+  avatar           : "lia.jpg"
+  bio              : "Doctoral Student<br />John Jay College of Criminal Justice<br />City University of New York"
+  location         : "New York, NY"
+  employer         : #"City University of New York"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zVCdoCEAAAAJ&hl=es"
-  email            : jch051@uark.edu
+  email            : LiVasquez@jjay.cuny.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kvothesfs"
+  github           : "LiaVas"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jcha14"
+  linkedin         : "lidiavasquez"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
