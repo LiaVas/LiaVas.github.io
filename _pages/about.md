@@ -20,7 +20,7 @@ I strive to add value through curiosity-driven research efforts. I thrive when f
 ## Bio
 
 
-Lidia Vásquez is a doctora student in Criminal Justice at the City University of New York, John Jay College. Her interests include collaborative research and young adults’ experiences of incarceration. She has participated in research projects in Latin America and the United States, analyzing social programs and public policies.
+Lidia Vásquez is a doctoral student in Criminal Justice at the City University of New York, John Jay College. Her interests include collaborative research and young adults’ experiences of incarceration. She has participated in research projects in Latin America and the United States, analyzing social programs and public policies.
 
 <!--
 ### Short Version
