@@ -3,26 +3,23 @@ main:
   - title: "Education"
     url: /education/
     
-  - title: "Work Experience"
-    url: /work_experience/    
+  - title: "Research Experience"
+    url: /research_experience/    
 
   - title: "Competencies"
     url: /competencies/
     
   - title: "Publications"
     url: /publications/
-
-  - title: "Awards"
-    url: /awards/
-
+    
   - title: "Teaching"
     url: /teaching/    
+s
+  - title: "Work Experience"
+    url: /work_experience/
 
   - title: "Talks"
     url: /talks/
-
-  - title: "Resume"
-    url: /resume/    
 
     
 

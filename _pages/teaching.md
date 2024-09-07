@@ -13,24 +13,47 @@ author_profile: true
 {% endfor %}
 -->
 
-## Instructor
-### Department of Industrial Engineering, University of Arkansas
-#### Fayetteville, AR
-- 	Design of Industrial Experiments. Spring 2024 (Current)
-	- Teaching M.Sc. and Ph.D. students in multiple engineering departments
-- 	Engineering Economic Analysis. Summer 2021
-	- Instructor evaluation mean: 4.7 out of 5
-- 	Engineering Economic Analysis. Summer 2020
+## Hunter College (CUNY)
+#### New York, NY
+#### 2024 - Current
 
-## Teaching Assistant
-### Department of Industrial Engineering, University of Arkansas
-#### Fayetteville, AR
-- Engineering Economic Analysis. Spring 2020
-- Production Planning and Control. Fall 2019
-- Applied Probability and Statistics II. Fall 2019
+- Adjunct Lecturer. 
 
-### Escuela Superior de Economía y Negocios
+## John Jay College of Criminal Justice (CUNY)
+#### New York, NY
+#### 2018 - Current
+
+- Adjunct Lecturer (2019-2022; 2023-Current)
+- Substitute Lecturer (2022-2023)
+- International Instructor for AAS, Academia para el Análisis de la Seguridad (Summer 2018, Winter 2019)
+- Research Mentor (2021-2022)
+- Teaching Assistant (2018-2019)
+
+
+## Escuela Superior de Economía y Negocios (ESEN)
 #### La Libertad, El Salvador
-- Statistical Inference and Probability. 2015
-- R for Statistics. 2014
-- Rational Mechanics. 2011
+#### 2007-2017
+
+- Lecturer of Statistics Courses (2015-2017)
+- Teaching Assistant (2007-2014)
+
+## Center for Public Policy-ESEN
+#### La Libertad, El Salvador
+#### 2014
+
+- Lecturer 
+
+
+## Undergraduate courses taught include (but not limited to):  
+- Research Method
+- Capstone
+- Quantitative Inquiry I & II
+- Statistics and Probability 
+- Inferential Statistics Econometrics (TA)
+
+## Graduate courses taught include: 
+- Research Design and Methods in Criminal Justice
+- Data Management course using Stata to criminal justice practitioners from Central America
+- SAS and R Language
+- Information Systems for Public Policy
+- Survey of Research Methods in Criminal Justice I & II (TA)

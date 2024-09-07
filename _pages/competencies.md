@@ -11,6 +11,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## Research Training and Skills
+
+- Program Evaluation: Quantitative, Qualitative, and Mixed Methods
+- Data collection: surveys, structured and semi-structured interviews, administrative data collection
+- Statistical tools: R, Stata, SAS, SPSS, Eviews
+- Qualitative Data Analysis (QDA) software: NVIVO, MaxQDA
+- Spatial analysis using R, GeoDa, ArcGIS, and GIS
+- Languages: English and Spanish (native)
+
+
+<!--
 ## Interpersonal Communication
 - Experience doing collaboration in multidisciplinary and diverse teams
 - Proactive and curiosity-driven
@@ -119,3 +130,4 @@ Optimization
 - IBM Qiskit for Universal Gate Circuits
 - D-Wave for Quantum Annealing
 
+-->
