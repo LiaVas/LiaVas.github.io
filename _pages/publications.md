@@ -21,9 +21,8 @@ author_profile: true
 
 - 2024	Grimsley, E. & **Vásquez, L.** <q>Immigration Enforcement and the Criminal Record: Using the Secure Communities program to understand the role of criminal history in ICE enforcement</q>, _Crit Crim_. DOI: [https://doi.org/10.1007/s10612-024-09788-y] (https://doi.org/10.1007/s10612-024-09788-y). 
 
-- 2024	**Vásquez, L.**, Kim, C. and Rajah, V., <q>Intimate partner violence (IPV) in El Salvador: A Relationship Between Femicide Attempts and Barriers for Help-seeking</q>.  DOI: [https://doi.org/10.1177/10778012231222489] (https://doi.org/10.1177/10778012231222489). 
-
-- 2023	Kim, C., **Vasquez, L.** and Rajah, V., <q>The effects of polyvictimization by intimate partners on suicidality among Salvadoran women</q>. _Journal of interpersonal violence?. DOI: [https://doi.org/10.1177/08862605231162654] (https://doi.org/10.1177/08862605231162654). 	
+- 2024	**Vásquez, L.**, Kim, C. and Rajah, V., <q>Intimate partner violence (IPV) in El Salvador: A Relationship Between Femicide Attempts and Barriers for Help-seeking</q>.  DOI: [https://doi.org/10.1177/10778012231222489](https://doi.org/10.1177/10778012231222489). 
+023	Kim, C., **Vasquez, L.** and Rajah, V., <q>The effects of polyvictimization by intimate partners on suicidality among Salvadoran women</q>. _Journal of interpersonal violence?. DOI: [https://doi.org/10.1177/08862605231162654](https://doi.org/10.1177/08862605231162654). 	
 
 <!--
 ### Published
